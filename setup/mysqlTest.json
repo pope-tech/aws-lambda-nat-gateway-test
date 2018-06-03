@@ -1,0 +1,5 @@
+{
+  "action": "telnet",
+  "host": "example-instance.us-east-1.rds.amazonaws.com",
+  "port": 3306
+}
